@@ -1,6 +1,6 @@
 function Home() {
   return (
-    <h1>E ai galera, blza?</h1>
+    <h1>E ai galera, blza? Como ta tudo?</h1>
   );
 }
 
